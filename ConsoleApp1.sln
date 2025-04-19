@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEnvVars", "Worki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEFCore", "WorkingWithEFCore\WorkingWithEFCore.csproj", "{B43E9646-2291-4084-AE51-672B8FF19718}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.EntityModels", "Northwind.EntityModels\Northwind.EntityModels.csproj", "{15EF6AFC-F881-4AF2-AB98-AF1108213B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,18 @@ Global
 		{B43E9646-2291-4084-AE51-672B8FF19718}.Release|x64.Build.0 = Release|Any CPU
 		{B43E9646-2291-4084-AE51-672B8FF19718}.Release|x86.ActiveCfg = Release|Any CPU
 		{B43E9646-2291-4084-AE51-672B8FF19718}.Release|x86.Build.0 = Release|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Debug|x64.Build.0 = Debug|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Debug|x86.Build.0 = Debug|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Release|x64.ActiveCfg = Release|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Release|x64.Build.0 = Release|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Release|x86.ActiveCfg = Release|Any CPU
+		{15EF6AFC-F881-4AF2-AB98-AF1108213B87}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
